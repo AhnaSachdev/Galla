@@ -1,6 +1,5 @@
 # Galla
 
-![GitHub License](https://img.shields.io/github/license/yourusername/galla)
 ![Node.js](https://img.shields.io/badge/Node.js-20%2B-brightgreen)
 ![Next.js](https://img.shields.io/badge/Next.js-15%2B-blue)
 
@@ -25,8 +24,8 @@ Galla is a modern web application built with **Next.js** (v15) and **TypeScript*
 ## Getting Started
 ```bash
 # Clone the repository (replace with actual repo URL)
-git clone https://github.com/yourusername/galla.git
-cd galla
+git clone https://github.com/yourusername/Galla.git
+cd Galla
 
 # Install dependencies
 npm install
